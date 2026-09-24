@@ -1,16 +1,37 @@
-# NOMNOM - Nuclear Option Managed & Neatly Organised Manifest
+<div align="center">
 
-NOMNOM is a self-updating package manifest registry that Mod Manager Applications can use to source Nuclear Option Mod Packages.
+# Nuclear Option Managed & Neatly Organised Manifest
 
-NOMNOM can also register mod dependencies, incompatibilities, and add-ons to other Mods such as Voice Packs etc.
+[![Deployment](https://img.shields.io/github/deployments/KopterBuzz/NOMNOM/github-pages?style=for-the-badge&logo=githubactions&logoColor=white&label=auto%20update)](https://github.com/KopterBuzz/NOMNOM/deployments)
+[![Workflow Status](https://img.shields.io/github/actions/workflow/status/KopterBuzz/NOMNOM/hourly_update.yml?style=for-the-badge&logo=githubactions&logoColor=white&label=build)](https://github.com/KopterBuzz/NOMNOM/actions)
+![Mods](https://img.shields.io/github/directory-file-count/KopterBuzz/NOMNOM/modManifests?style=for-the-badge&logo=modrinth&logoColor=white&label=mods&color=44BB00)
+[![Contributors](https://img.shields.io/github/contributors/KopterBuzz/NOMNOM?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/KopterBuzz/NOMNOM/graphs/contributors)
 
-### DISCLAIMER
+</div>
 
-NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, the developer of Nuclear Option.
+**NOMNOM** is a self-updating package manifest registry that **Mod Managers** can use to source **Nuclear Option Mod Packages**.
 
-### Current known Mod Manager Projects that use NOMNOM:
+**NOMNOM** can also register mod dependencies, incompatibilities, and add-ons to other mods.
 
-- [NOMM - Nuclear Option Mod Manager](https://github.com/Combat787/NuclearOptionModManager/) - [DOWNLOAD](https://github.com/Combat787/NuclearOptionModManager/releases/latest)
+### Recommended Mod Managers
+
+[![GitHub Release](https://img.shields.io/github/v/release/Combat787/NOMM?style=for-the-badge&label=Nuclear%20Option%20Mod%20Manager&logo=github&logoColor=white)](https://github.com/Combat787/NOMM)
+
+> [!IMPORTANT]
+> ### Disclaimer
+> NOMNOM is a community project and is not affiliated with Shockfront Studios, the developer of Nuclear Option.
+
+---
+
+## Contributing
+
+<div align="right">
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/KopterBuzz/NOMNOM?style=for-the-badge)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/KopterBuzz/NOMNOM?excludeDrafts&style=for-the-badge&label=pull%20requests)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/KopterBuzz/NOMNOM?onlyDrafts&style=for-the-badge&label=pull%20drafts)
+
+</div>
 
 ### How to Add your Nuclear Option Mod to NOMNOM
 - You must Understand and Comply with the [Mod Submission Acceptance Policy](README.md#mod-submission-acceptance-policy)
@@ -22,7 +43,7 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 If your Mod contains custom DLL or Executable Files, those DLL or Executable Files Must Be Open-Sourced and the Source Code must not contain any obfuscation. Submission requests that do not comply will be denied.
   - Clarifications:
-    - If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar AND Does Not contain any Custom DLL or Executable Files, there is no cause for concern.
+    - If your mod is an AddOn, e.g. a Blueprinter Aircraft Mod, or a Voice Pack, or similar, AND Does Not contain any Custom DLL or Executable Files, there is no cause for concern.
     - During periods of Retroactive Enforcement of the Mod Submission Acceptance Policy, Owners of any Mods that are found to be in breach of this clause will be contacted privately and asked to comply and will be given a reasonable Grace Period. Failing to take action to ensure compliance before the Grace Period's deadline expires will result in delisting the specific Mod(s) that breach this clause.
 
 #### 2. Zero Tolerance Clauses
@@ -41,11 +62,11 @@ All your submissions will be delisted and all your future submission requests wi
 
 If Custom DLL or Executable Files in your Mod Release(s) are found to be inconsistent with the Source Code (e.g. containing additional code that is not present in the Available Source Code for the Open-Sourced DLLs or Executable Files), and these inconsistencies are found to be breaching Zero Tolerance Clause 2.1, all your submissions will be delisted and all your future submission requests will be denied. We have Zero Tolerance for any breaches.
 
-#### 3. Licensing, Copyright and License Attribution
+#### 3. Licensing, Copyright, and License Attribution
 
 3.1
 
-If your Mod uses, adapts or contains any Third Parties' Work that are under any specific licenses, you must give credit to the Original Creator or Copyright Holder of the Work, and display the Licenses under which this Work was made available. Failure to do so may result in the specific Submission(s) that breach this clause being denied, or the specific Mod(s) found to be breaching this clause to be delisted.
+If your Mod uses, adapts, or contains any Third Parties' Work that are under any specific licenses, you must give credit to the Original Creator or Copyright Holder of the Work, and display the Licenses under which this Work was made available. Failure to do so may result in the specific Submission(s) that breach this clause being denied, or the specific Mod(s) found to be breaching this clause to be delisted.
   - Example 1: Using a 3d model of an aircraft or a vehicle that was made by someone else and released under e.g. Creative Commons License, but not crediting the author and displaying the License in the project's repository.
   - Example 2: Forking someone else's Mod project and publishing it as your own.
 
