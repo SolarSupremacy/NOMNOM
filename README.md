@@ -23,7 +23,7 @@
 
 ---
 
-## Contributing
+## Resources
 
 <div align="right">
 
@@ -33,6 +33,12 @@
 
 </div>
 
-### Publishing your Mod
-- You must understand and comply with our [Code of Conduct / Mod Submission Acceptance Policy](CODE_OF_CONDUCT.md#mod-submission-acceptance-policy).
-- To create a new submission for publishing on NOMNOM, follow [these instructions](CONTRIBUTING.md#nomnom-schema).
+1. ### [Code of Conduct & Mod Submission Acceptance Policy](CODE_OF_CONDUCT.md)
+   - All users are expected to follow our code of conduct.
+   - All modders are required to understand and follow the mod submission acceptance policy.
+
+2. ### [NOMNOM Schema & Contribution Guide](CONTRIBUTING.md#nomnom-documentation--contribution-guide)
+   - NOMNOM mod schema (JSON manifest) documentation.
+   - Modding advice.
+   - Contributing mods to NOMNOM.
+   - Contributing to the NOMNOM project.

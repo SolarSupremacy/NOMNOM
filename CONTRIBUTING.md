@@ -1,4 +1,4 @@
-﻿# NOMNOM Schema
+﻿# NOMNOM Documentation // Contribution Guide
 
 ### Example Manifest:
 
@@ -275,7 +275,7 @@ Before you proceed, please ensure you familiarize yourself with [this manifest s
 4. The request will be discussed and approved to merge if appropriate.
 
 ## Additional Guidelines
-- In order for NOMNOM to automatically discover new feleases for registered mods, they must be available as **release packages** on your GitHub repository..
+- In order for NOMNOM to automatically discover new releases for registered mods, they must be available as **release packages** on your GitHub repository..
   - If you use a different delivery method, you must submit a **pull request** to get new releases registered. Follow [these instructions.](#contributing-manifests)
 - GitHub repositories for your mods should contain releases for **only one mod**. Do not put releases for multiple mods under one repository.
 - If your release(s) contain multiple release assets, the first release asset on the list must be the one intended for NOMNOM.

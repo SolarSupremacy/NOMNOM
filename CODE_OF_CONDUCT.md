@@ -1,4 +1,4 @@
-# Mod Submission Acceptance Policy
+# <ins>Code of Conduct</ins> // <ins>Mod Submission Acceptance Policy</ins>
 
 ## 1. Open-Source Mandate
 
